@@ -8,3 +8,4 @@ Candidates can use whatever method they wish to develop their machine learning m
 Implementing
 If you are running on your local machine,
 keggle notebook :-https://www.kaggle.com/code/pankajbhosale/fraud-detection
+dataset :-https://www.kaggle.com/datasets/pankajbhosale/fraud
